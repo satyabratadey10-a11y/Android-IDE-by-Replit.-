@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android IDE</string>
+    <string name="build_success">Build Successful</string>
+    <string name="build_failed">Build Failed</string>
+    <string name="toolchain_ready">Toolchain ready</string>
+    <string name="toolchain_setup">Setting up toolchain\u2026</string>
+    <string name="no_projects">No projects yet. Create one to get started.</string>
+    <string name="new_project">New Project</string>
+    <string name="delete_project">Delete Project</string>
+    <string name="build_debug">Build Debug APK</string>
+    <string name="install_apk">Install to Device</string>
+</resources>
